@@ -2,13 +2,13 @@ import os
 import shutil
 import datetime
 
-source_folder_1 = "C:/Users/Public/OneDrive/Desktop"
-source_folder_2 = "C:/Users/user/Downloads"
+source_folder_1 = #"C:/Users/OneDrive/Desktop" Change the path  according to your file system
+source_folder_2 = #"C:/Users/Downloads"
 
-destination_folder_photos = "C:/Users/Public/Documents/All photos"
-destination_folder_documents = "C:/Users/Public/Documents/All Documents"
-destination_folder_installed = "C:/Users/Public/Documents/Installed stuff"
-destination_folder_projects = "C:/Users/Public/Documents/Project files"
+destination_folder_photos = #"C:/Users/Documents/All photos"
+destination_folder_documents = #"C:/Users/Documents/All Documents"
+destination_folder_installed = #"C:/Users/Documents/Installed stuff"
+destination_folder_projects = #"C:/Users/Documents/Project files"
 
 DESTINATION_FOLDERS = {
     'Photos': {
